@@ -33,7 +33,7 @@
   height: 500px;
 }
 
-.nome {
+.container-forms {
   display: flex;
   flex-direction: row;
 }
