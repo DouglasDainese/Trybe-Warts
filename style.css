@@ -1,7 +1,17 @@
 .header {
   display: flex;
   background-color: rgb(50, 167, 145);
+  justify-content: space-between;
+  height: 100px;
+  align-items: center;
 }
 .trybewarts-login {
-    display: flex;
+  display: flex;
+}
+.trybewarts-header-logo {
+  height: 100px;
+}
+#trybewarts-header-title {
+  font-size: 60px;
+  color: white;
 }
