@@ -5,13 +5,25 @@
   height: 100px;
   align-items: center;
 }
+
 .trybewarts-login {
   display: flex;
 }
+
 .trybewarts-header-logo {
   height: 100px;
 }
+
 #trybewarts-header-title {
   font-size: 60px;
   color: white;
+}
+
+.principal {
+  display: flex;
+}
+
+#evaluation-form {
+  display: flex;
+  width: 675px;
 }
